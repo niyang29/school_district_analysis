@@ -1,10 +1,10 @@
-#School District Analysis
+# School District Analysis
 
-##Purpose of School District Analysis
+## Purpose of School District Analysis
 
 The school board has notified Maria and her supervisor, to whom are both expert data scientists within the school district, to make the appropriate adjustments to their data file "students_complete.csv" after learning that there were evidence of academic dishonesty with the reading and math scores for Thomas HIgh school ninth graders. In order to make the appropriate adjustments, we replaced ninth grade math and reading scores for Thomas High school with NaNs and ran new numbers and tables for the school district analysis. This analysis helps the school board to get a snapshot of the district's key metrics and make informed decisions on where money has been spent and what schools may need more funding in order to improve reading and math performance. 
 
-##Results: Using bulleted lists and images of DataFrames as support, address the following questions.
+## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
 ### District Summary
 
@@ -68,7 +68,7 @@ Original Scores by School Type
 New Scores by School Type
 ![New Scores by Type](https://user-images.githubusercontent.com/96089187/151691226-77f50cfb-8ab0-4807-8f0a-383dde5e2c2e.png)
 
-##Summary: 
+## Project Summary: 
 
 * Within the district, Thomas High School was originally ranked #2. With the omission of the ninth grade math and reading scores, they fell in the ranks. Thomas High School experienced a decrease in math, reading, and overall percentages. 
 * Within the Thomas High School, their most drastic shift is the Overall Passing Percentage where the original Overall Passing Percentage was 90.9% and decreased to 65.1% passing. 
